@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="204.472" height="225.627" viewBox="0 0 204.472 225.627">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Прямоугольник_143" data-name="Прямоугольник 143" width="151.19" height="151.19" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Прямоугольник_143-2" data-name="Прямоугольник 143" width="44.283" height="44.283" fill="#e2d5ff"/>
+    </clipPath>
+  </defs>
+  <g id="Сгруппировать_8452" data-name="Сгруппировать 8452" transform="translate(-1384.273 -578.612)">
+    <g id="Сгруппировать_721" data-name="Сгруппировать 721" transform="matrix(0.469, 0.883, -0.883, 0.469, 1517.766, 599.767)">
+      <g id="Сгруппировать_560" data-name="Сгруппировать 560" clip-path="url(#clip-path)">
+        <path id="Контур_67" data-name="Контур 67" d="M2.211,70.258,70.257,2.212a7.549,7.549,0,0,1,10.676,0l68.046,68.046a7.549,7.549,0,0,1,0,10.676L80.932,148.979a7.548,7.548,0,0,1-10.676,0L2.211,80.933a7.549,7.549,0,0,1,0-10.676" transform="translate(0 0)" fill="#c8acff"/>
+      </g>
+    </g>
+    <g id="Сгруппировать_844" data-name="Сгруппировать 844" transform="translate(1467.174 578.612) rotate(17)">
+      <g id="Сгруппировать_560-2" data-name="Сгруппировать 560" clip-path="url(#clip-path-2)">
+        <path id="Контур_67-2" data-name="Контур 67" d="M.647,20.579,20.578.648a2.211,2.211,0,0,1,3.127,0l19.93,19.93a2.211,2.211,0,0,1,0,3.127L23.7,43.636a2.211,2.211,0,0,1-3.127,0L.647,23.706a2.211,2.211,0,0,1,0-3.127" transform="translate(0 -0.001)" fill="#e2d5ff"/>
+      </g>
+    </g>
+  </g>
+</svg>

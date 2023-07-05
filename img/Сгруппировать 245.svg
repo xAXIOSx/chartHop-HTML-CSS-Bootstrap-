@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="5" height="8.75" viewBox="0 0 5 8.75">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Контур_50" data-name="Контур 50" d="M3.933,8.567a.625.625,0,0,0,.884-.884L1.509,4.375,4.817,1.067A.625.625,0,0,0,3.933.183L.183,3.933a.625.625,0,0,0,0,.884Z" fill="#6e37ff" clip-rule="evenodd"/>
+    </clipPath>
+  </defs>
+  <g id="Сгруппировать_245" data-name="Сгруппировать 245" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <path id="Контур_49" data-name="Контур 49" d="M0,0H11.25V15H0Z" transform="translate(-3.125 -3.125)" fill="#6e37ff"/>
+  </g>
+</svg>
